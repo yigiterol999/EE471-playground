@@ -1,1 +1,3 @@
-# This script is written by Yiğit Erol
+# Senior Dev: Yiğit Erol
+def pleaseConformOnepass():
+    pass
